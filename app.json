@@ -1,0 +1,9 @@
+{
+  "name": "oneindex",
+  "description": "oneindex[Written in PHP]",
+  "website": "https://github.com/0080004/AriaNg-Heroku",
+  "repository": "https://github.com/0080004/AriaNg-Heroku",
+  "success_url": "index.html",
+  "env":{
+  }
+}
